@@ -1,0 +1,28 @@
+{
+  "term": "Spring",
+  "year": "3001",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "test3"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test3"
+  },
+  "course_title": "woof",
+  "course_description": "",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.123",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test3"
+  },
+  "learning_resource_types": [],
+  "site_uid": "2ba29bdc-f5c8-493d-9983-db345190037e"
+}
